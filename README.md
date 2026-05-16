@@ -276,15 +276,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output Screen Shots of serial port utility :
 
-#### Connection Established with Serial Port Utility and Cricuit Board
+### Connection Established with Serial Port Utility and Cricuit Board
 
 <img width="1280" height="960" alt="connectionestablished" src="https://github.com/user-attachments/assets/7abc4d7c-f2af-4e50-aa0c-c6da4a55d24d" />
 
-#### Interupption Given (hand infront of Sensor)
+### Interupption Given (hand infront of Sensor)
 
 <img width="1280" height="960" alt="interupptiongiven" src="https://github.com/user-attachments/assets/5e8d53c3-5124-4174-81c3-ac83ae5e7e64" />
 
-#### After Interupption, Output displayed in Serial Port Utility
+### After Interupption, Output displayed in Serial Port Utility
 
 <img width="1280" height="960" alt="outputdisplayed" src="https://github.com/user-attachments/assets/70d27f2c-de74-4c0d-a451-74331626e1f9" />
 
